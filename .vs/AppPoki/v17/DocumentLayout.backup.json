@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AppPoki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|c:\\users\\user\\desktop\\apppoki\\apppoki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|solutionrelative:apppoki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|c:\\users\\user\\desktop\\apppoki\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|solutionrelative:resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|c:\\users\\user\\desktop\\apppoki\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|solutionrelative:resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|c:\\users\\user\\desktop\\apppoki\\apppoki.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4B03B7E9-586F-4A62-8995-2A58AA0EA716}|AppPoki.csproj|solutionrelative:apppoki.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppPoki",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AppPoki\\AppPoki.csproj",
+              "RelativeDocumentMoniker": "AppPoki.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AppPoki\\AppPoki.csproj",
+              "RelativeToolTip": "AppPoki.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T11:12:41.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AppPoki\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AppPoki\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T11:05:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AppPoki\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AppPoki\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T10:52:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppPoki",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AppPoki\\AppPoki.csproj",
+              "RelativeDocumentMoniker": "AppPoki.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AppPoki\\AppPoki.csproj",
+              "RelativeToolTip": "AppPoki.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T10:37:55.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
